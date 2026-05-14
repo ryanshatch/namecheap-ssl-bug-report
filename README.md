@@ -56,8 +56,7 @@ namecheap-ssl-quantity-validation-bug/
 ├── docs/
 │   └── timeline.md            ← Detailed disclosure timeline
 ├── poc/                       ← Proof‑of‑concept code (private branch until it is patched)
-│   └── [redacted for now]
-└── .github/
+│   └── [redacted for now]z
 ```
 
 ## License
